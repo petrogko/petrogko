@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-# Nice to meet you! 👋
+# Nice to meet you!
 
 I am Petro G, a *Solutions & DevOps* Engineer based from GTA, Canada
 
