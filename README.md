@@ -12,7 +12,7 @@ A Tech Enthusiast who likes:
 * Coding
 * Hiking
 * Photography
-
+<img align="right" alt="GIF" src="https://github.com/petrogko/petrogko/code.gif?raw=true" width="500" height="320" />
 Some Ideas
 - 🔭 I’m currently working on small Arduino Projects.
 - 🌱 I’m currently learning Learning CyberSecurity.
