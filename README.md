@@ -43,6 +43,13 @@ Some Ideas
 <!--* My portfolio: [petrogko.github.io](https://petrogko.github.io)-->
 * [LinkedIn](https://www.linkedin.com/in/petrog/)
 
+<p align="center"> 
+  Visitors count<br>
+  <img src="https://profile-counter.glitch.me/garimasingh128/count.svg" />
+</p>
+
+<img src="stats.gif" width="90%"><br/><br/>
+
 <!--
 **petrogko/petrogko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
