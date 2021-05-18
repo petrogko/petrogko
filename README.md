@@ -11,12 +11,12 @@
     * Photography
 </p>
 <p>
-Some Ideas - 🔭 I’m currently working on small Arduino Projects. 
-    - 🌱 I’m currently learning Learning CyberSecurity. 
-    - 👯 I’m looking to collaborate on anything. 
-    - 🤔 I’m looking for help with expanding my knowledge. 
-    - 💬 Ask me about anything 
-    - 📫 How to reach me: See below <!-- ⚡ Fun fact: ... -->
+Some Ideas - 🔭 I’m currently working on small Arduino Projects. <br>
+    - 🌱 I’m currently learning Learning CyberSecurity. <br>
+    - 👯 I’m looking to collaborate on anything. <br>
+    - 🤔 I’m looking for help with expanding my knowledge. <br>
+    - 💬 Ask me about anything <br>
+    - 📫 How to reach me: See below <!-- ⚡ Fun fact: ... --><br>
 </p>
 <h2 id="technologies-tools">🔧 Technologies &amp; Tools</h2>
 <p><img src="https://img.shields.io/badge/OS-Linux-informational?style=flat&amp;logo=linux&amp;logoColor=white&amp;color=2bbc8a" /> <img src="https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&amp;logo=intellij-idea&amp;logoColor=white&amp;color=2bbc8a" /> <img src="https://img.shields.io/badge/Cloud-Aws-informational?style=flat&amp;logo=aws&amp;logoColor=white&amp;color=2bbc8a" /> <img src="https://img.shields.io/badge/Code-Python-informational?style=flat&amp;logo=python&amp;logoColor=white&amp;color=2bbc8a" /> <img src="https://img.shields.io/badge/Code-JavaScript-informational?style=flat&amp;logo=javascript&amp;logoColor=white&amp;color=2bbc8a" /> <img src="https://img.shields.io/badge/Code-Golang-informational?style=flat&amp;logo=go&amp;logoColor=white&amp;color=2bbc8a" /> <img src="https://img.shields.io/badge/Code-Make-informational?style=flat&amp;logo=cmake&amp;logoColor=white&amp;color=2bbc8a" /> <embed src="https://img.shields.io/badge/Code-React-informational?style=flat&amp;logo=vue.js&amp;logoColor=white&amp;color=2bbc8a" /> <img src="https://img.shields.io/badge/Shell-Bash-informational?style=flat&amp;logo=gnu-bash&amp;logoColor=white&amp;color=2bbc8a" /> <img src="https://img.shields.io/badge/Tools-MySql-informational?style=flat&amp;logo=mysql&amp;logoColor=white&amp;color=2bbc8a" /> <img src="https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&amp;logo=postgresql&amp;logoColor=white&amp;color=2bbc8a" /> <img src="https://img.shields.io/badge/Tools-Docker-informational?style=flat&amp;logo=docker&amp;logoColor=white&amp;color=2bbc8a" /> <img src="https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&amp;logo=kubernetes&amp;logoColor=white&amp;color=2bbc8a" /> <img src="https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&amp;logo=digitalocean&amp;logoColor=white&amp;color=2bbc8a" /></p>
@@ -32,7 +32,7 @@ Currently, the weather is: <b> 21°C, <i>scattered clouds</i></b></br>Today, the
 </ul>
 
 ------------
-<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Tuesday, May 18, 10:25 AM EDT<br /><a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">Create your own here!</a></p>
+<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Tuesday, May 18, 10:31 AM EDT<br /><a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">Create your own here!</a></p>
 <p align="center"><img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" /> <img alt="Stars" src="https://img.shields.io/github/stars/thmsgbrt/thmsgbrt?style=flat-square&labelColor=343b41"/> <img alt="Forks" src="https://img.shields.io/github/forks/thmsgbrt/thmsgbrt?style=flat-square&labelColor=343b41"/></p>
 
 <!--
