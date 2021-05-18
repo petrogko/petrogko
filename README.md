@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hi there 👋 ![](https://visitor-badge.glitch.me/badge?page_id=petrogko)
 
-# Nice to meet you!
+# Nice to meet you!  
 
 I am Petro G, a *Solutions & DevOps* Engineer based from GTA, Canada
 
@@ -42,11 +42,6 @@ Some Ideas
 
 <!--* My portfolio: [petrogko.github.io](https://petrogko.github.io)-->
 * [LinkedIn](https://www.linkedin.com/in/petrog/)
-
-<p align="center"> 
-  Visitors count<br>
-  <img src="https://profile-counter.glitch.me/petrogko/count.svg" />
-</p>
 
 <!--
 **petrogko/petrogko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
