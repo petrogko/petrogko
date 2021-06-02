@@ -1,7 +1,7 @@
 <h3 id="hi-there">Hi there 👋 <img src="https://visitor-badge.glitch.me/badge?page_id=petrogko" /></h3>
 <h1 id="nice-to-meet-you">Nice to meet you!</h1>
 <p>I am Petro G, a <em>Solutions &amp; DevOps</em> Engineer based from GTA, Canada</p>
-<p><img align="right" alt="GIF" src="https://github.com/petrogko/petrogko/blob/main/code.gif?raw=true" width="500" height="320" /></p>
+<p><img align="right" alt="GIF" src="https://github.com/petrogko/petrogko/blob/main/images/dev-working.gif?raw=true" width="500" height="320" /></p>
 <p>Lets connect.</p>
 <p>A Tech Enthusiast who likes: <br>
     * Solving Solutions by whichever means <br>
@@ -23,7 +23,7 @@ Some Ideas - 🔭 I’m currently working on small Arduino Projects. <br>
 <p>If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈</p>
 <p><a href="https://www.buymeacoffee.com/petrogko" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a></p>
 <br>
-Currently, the weather is: <b> 4°C, <i>moderate rain</i></b></br>Today, the sun rises at <b>05:41 AM</b> and sets at <b>08:49 PM</b>.</p>
+Currently, the weather is: <b> 20°C, <i>clear sky</i></b></br>Today, the sun rises at <b>05:38 AM</b> and sets at <b>08:53 PM</b>.</p>
 <h2 id="reach-me">Reach me @</h2>
 <!--* My portfolio: [petrogko.github.io](https://petrogko.github.io)-->
 <ul>
@@ -31,7 +31,7 @@ Currently, the weather is: <b> 4°C, <i>moderate rain</i></b></br>Today, the sun
 </ul>
 
 ------------
-<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Friday, May 28, 3:20 PM EDT<br /><!--<a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">Create your own here!</a>--></p>
+<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Wednesday, June 2, 11:42 AM EDT<br /><!--<a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">Create your own here!</a>--></p>
 <p align="center"><img src="https://github.com/petrogko/petrogko/workflows/README%20build/badge.svg" /> <!--<img alt="Stars" src="https://img.shields.io/github/stars/thmsgbrt/thmsgbrt?style=flat-square&labelColor=343b41"/> <img alt="Forks" src="https://img.shields.io/github/forks/thmsgbrt/thmsgbrt?style=flat-square&labelColor=343b41"/>--></p>
 
 <!--
