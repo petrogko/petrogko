@@ -23,7 +23,7 @@ Some Ideas - 🔭 I’m currently working on small Arduino Projects. <br>
 <p>If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈</p>
 <p><a href="https://www.buymeacoffee.com/petrogko" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a></p>
 <br>
-Currently, the weather is: <b> 20°C, <i>clear sky</i></b></br>Today, the sun rises at <b>05:38 AM</b> and sets at <b>08:53 PM</b>.</p>
+Currently, the weather is: <b> 22°C, <i>clear sky</i></b></br>Today, the sun rises at <b>05:38 AM</b> and sets at <b>08:53 PM</b>.</p>
 <h2 id="reach-me">Reach me @</h2>
 <!--* My portfolio: [petrogko.github.io](https://petrogko.github.io)-->
 <ul>
@@ -31,7 +31,15 @@ Currently, the weather is: <b> 20°C, <i>clear sky</i></b></br>Today, the sun ri
 </ul>
 
 ------------
-<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Wednesday, June 2, 11:42 AM EDT<br /><!--<a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">Create your own here!</a>--></p>
+
+### Vibing to : 🎧  <!--img src="https://media.giphy.com/media/kC8QA2OYWOADK0e1Uk/giphy.gif" width="30" style="padding-top: 10px;" -->
+
+<!--img alt="Spotify" src="https://spotify-readme.sp-xd.vercel.app/api/spotify" href="https://open.spotify.com/user/pgify" &count_private=true&bg_color=904e99&title_color=fff&text_color=fff&icon_color=f2f2f2-->
+
+[![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/user/pgify) <br>
+
+------------
+<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Wednesday, June 2, 1:47 PM EDT<br /><!--<a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">Create your own here!</a>--></p>
 <p align="center"><img src="https://github.com/petrogko/petrogko/workflows/README%20build/badge.svg" /> <!--<img alt="Stars" src="https://img.shields.io/github/stars/thmsgbrt/thmsgbrt?style=flat-square&labelColor=343b41"/> <img alt="Forks" src="https://img.shields.io/github/forks/thmsgbrt/thmsgbrt?style=flat-square&labelColor=343b41"/>--></p>
 
 <!--
