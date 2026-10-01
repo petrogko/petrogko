@@ -104,7 +104,7 @@ Layers, back to front:
 
 ### 5.4 Cards (each `-dark` and `-light`, 400×140 unless noted)
 - **Weather card:** label "TORONTO NOW", temperature (rounded °C), condition (sentence case), "feels like N°", sunrise ☀︎ and sunset ☾ times from `suncalc` formatted `HH:mm` in America/Toronto, and a small glyph matching the weather layer. Unavailable state: "Toronto · weather unavailable", with sun times still shown.
-- **Stats card:** public repos, total stars on public repos, followers; a stacked bar of the top 4 languages with names; a footer "updated Wed 1 Oct, 15:17 EDT". This footer is the only "last updated" stamp on the page.
+- **Stats card:** public repos, total stars on public repos, followers; a stacked bar of the top 4 languages with names; a footer "updated Thu 1 Oct, 15:17 EDT". This footer is the only "last updated" stamp on the page.
 - **Featured card** (one per repo): constellation art seeded from a hash of the repo name (hue and star positions); humanised title (`religion-history-timeline` → "Religion History Timeline"); description word-wrapped to at most 3 lines of about 52 characters, with an ellipsis if longer.
 - **Skills strip** (`skills-*.svg`, 800×36, one row): pills from `config.skills`, which lists Python, TypeScript, Go, Docker, Kubernetes, AWS, Linux and LLMs, each with an emoji.
 - **Connect buttons** (`btn-site-*`, `btn-linkedin-*`, `btn-coffee-*`, 180×36): 🌐 petrogko.com · 💼 LinkedIn · ☕ Buy me a coffee.
@@ -209,7 +209,8 @@ scripts/preview.js      writes every variant plus a gallery to preview/
 | Source request fails or times out | 10s timeout (`AbortSignal.timeout`), 1 retry. Then use last-good data and emit a `::warning::`. The run stays green. |
 | Weather fallback older than 6h | Not used: render the "unavailable" state. |
 | GitHub fallback (any age) | Used (the data changes slowly). |
-| No fallback | Weather card shows "unavailable". Stats show "–". The activity feed keeps the README's current lines (main isn't touched). The constellation uses tool stars only. |
+| No weather fallback | Weather card shows "unavailable"; the sky still renders from local calculations. The run stays green. |
+| No GitHub data and no fallback | The run **fails** (exit 1) and nothing is published. Publishing without GitHub data would drop the featured-card images that the unchanged README still links to. This needs both the GitHub API and `last-good.json` to be unavailable at once. |
 | `OPEN_WEATHER_MAP_KEY` unset | Same as a failed weather source, without a retry. |
 | Rendering throws, or an SVG isn't well-formed XML (checked before writing) | The run **fails**: exit 1, nothing published, the last good images stay live. |
 | Untrusted text (descriptions, event payloads, repo names) | Always passed through `escapeXml` for SVG; Mustache `{{ }}` escaping for the README. |
