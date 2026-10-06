@@ -120,6 +120,21 @@ test('dawn and dusk sun discs rise above the wave edge', () => {
   }
 });
 
+test('hero day × halloween is well-formed and stable', () => {
+  const svg = hero({ phase: 'day', season: 'autumn', holiday: 'halloween' }, { weatherId: 800 });
+  assert.equal(findXmlError(svg), null);
+  matchSnapshot('hero-day-halloween.svg', svg);
+});
+
+test('halloween moon stays clear of the sun in every phase', () => {
+  for (const phase of ['dawn', 'day', 'dusk']) {
+    const svg = hero({ phase, holiday: 'halloween' });
+    const [mx, my, mr] = svg.match(/<circle cx="(\d+)" cy="(\d+)" r="(\d+)" fill="#2a3150"/).slice(1).map(Number);
+    const [sx, sy, sr] = svg.match(/<circle cx="(\d+)" cy="(\d+)" r="(\d+)" fill="#ff[0-9a-f]{4}"\/>/).slice(1).map(Number);
+    assert.ok(Math.hypot(mx - sx, my - sy) > mr + sr + 20, `${phase}: moon (${mx},${my}) vs sun (${sx},${sy})`);
+  }
+});
+
 test('canada day leaf sits right after the greeting', () => {
   const svg = hero({ phase: 'night', holiday: 'canadaday' });
   const x = Number(svg.match(/fill="#d52b1e" transform="translate\(([\d.]+) 90\)/)[1]);

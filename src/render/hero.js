@@ -137,9 +137,10 @@ function moonLayer(moon, holiday, phase) {
   const lit = halloween ? { illumination: 1, waxing: true } : moon;
   const color = halloween ? '#ff9a3c' : '#f3f0e0';
   const opacity = phase === 'night' ? 1 : 0.5;
+  const cx = phase === 'day' ? 300 : 380; // keep clear of the midday sun at (420, 50)
   return (
-    `<g opacity="${opacity}"><circle cx="380" cy="46" r="16" fill="#2a3150" fill-opacity="0.5"/>` +
-    `<path d="${moonPath(380, 46, 16, lit)}" fill="${color}"/></g>`
+    `<g opacity="${opacity}"><circle cx="${cx}" cy="46" r="16" fill="#2a3150" fill-opacity="0.5"/>` +
+    `<path d="${moonPath(cx, 46, 16, lit)}" fill="${color}"/></g>`
   );
 }
 
