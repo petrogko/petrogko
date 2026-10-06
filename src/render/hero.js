@@ -264,7 +264,7 @@ function headingLayer(greeting, taglines, location, look, holiday) {
         `<text${rotating ? ` class="tl tl${i}"` : ''} x="50" y="136" font-family="${FONT_SANS}" font-size="17" fill="${look.subtitle}">${escapeXml(`${t} · ${location}`)}</text>`
     )
     .join('');
-  const leafX = 48 + [...greeting].length * 22 + 14;
+  const leafX = 48 + [...greeting].length * 19 + 16; // ~19px per glyph at 40px bold sans
   const leaf =
     holiday === 'canadaday' ? `<path d="${LEAF}" fill="#d52b1e" transform="translate(${leafX} 90) scale(1.2)"/>` : '';
   return title + lines + leaf;

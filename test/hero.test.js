@@ -120,6 +120,12 @@ test('dawn and dusk sun discs rise above the wave edge', () => {
   }
 });
 
+test('canada day leaf sits right after the greeting', () => {
+  const svg = hero({ phase: 'night', holiday: 'canadaday' });
+  const x = Number(svg.match(/fill="#d52b1e" transform="translate\(([\d.]+) 90\)/)[1]);
+  assert.ok(x >= 335 && x <= 365, `leaf at ${x}`);
+});
+
 test('moonPath: half moon has a straight terminator; waxing lights the right side', () => {
   assert.equal(moonPath(10, 10, 5, { illumination: 0.5, waxing: true }), 'M10 5 A5 5 0 0 1 10 15 A0 5 0 0 1 10 5Z');
   assert.equal(moonPath(10, 10, 5, { illumination: 0.25, waxing: false }), 'M10 5 A5 5 0 0 0 10 15 A2.5 5 0 0 1 10 5Z');
