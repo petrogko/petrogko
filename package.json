@@ -1,33 +1,25 @@
 {
   "name": "petrogko",
-  "version": "1.0.0",
-  "description": "A dynamic README.md for your GitHub Profile, using Actions, Javascript and Mustache.",
-  "main": "index.js",
+  "version": "2.0.0",
+  "private": true,
+  "description": "Self-updating GitHub profile README with a living Toronto sky.",
+  "type": "module",
+  "license": "MIT",
+  "author": "Petro G",
+  "engines": {
+    "node": ">=24"
+  },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "node src/index.js --out dist",
+    "test": "node --test \"test/**/*.test.js\"",
+    "preview": "node scripts/preview.js"
+  },
+  "dependencies": {
+    "mustache": "^4.2.0",
+    "suncalc": "^2.1.0"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/petrogko/petrogko.git"
-  },
-  "keywords": [
-    "readme.md",
-    "github",
-    "actions",
-    "dynamic",
-    "javascript"
-  ],
-  "author": "Petro G",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/petrogko/petrogko/issues"
-  },
-  "homepage": "https://github.com/petrogko/petrogko#readme",
-  "dependencies": {
-    "dotenv": "^8.2.0",
-    "mustache": "^4.0.1",
-    "node-fetch": "^2.6.1",
-    "puppeteer": "^5.1.0"
-  },
-  "devDependencies": {}
+  }
 }
