@@ -1,0 +1,32 @@
+export const config = {
+  user: 'petrogko',
+  greeting: "Hi, I'm Petro 👋",
+  location: { city: 'Toronto', lat: 43.6532, lon: -79.3832, timeZone: 'America/Toronto' },
+  taglines: ['Solutions & DevOps Engineer', 'Homelab tinkerer', 'AI app builder', 'Star-chart maker'],
+  skills: [
+    { icon: '🐍', label: 'Python' },
+    { icon: '🟦', label: 'TypeScript' },
+    { icon: '🐹', label: 'Go' },
+    { icon: '🐳', label: 'Docker' },
+    { icon: '☸️', label: 'Kubernetes' },
+    { icon: '☁️', label: 'AWS' },
+    { icon: '🐧', label: 'Linux' },
+    { icon: '🤖', label: 'LLMs' },
+  ],
+  toolStars: ['docker', 'kubernetes', 'aws', 'llms'],
+  excludeRepos: [],
+  featuredTopic: 'featured',
+  maxFeatured: 4,
+  activityLimit: 5,
+  outputBase: 'https://raw.githubusercontent.com/petrogko/petrogko/output',
+  links: {
+    site: 'https://petrogko.com',
+    linkedin: 'https://www.linkedin.com/in/petrog/',
+    coffee: 'https://www.buymeacoffee.com/petrogko',
+  },
+  buttons: [
+    { file: 'btn-site', icon: '🌐', label: 'petrogko.com' },
+    { file: 'btn-linkedin', icon: '💼', label: 'LinkedIn' },
+    { file: 'btn-coffee', icon: '☕', label: 'Buy me a coffee' },
+  ],
+};
