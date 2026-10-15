@@ -23,6 +23,13 @@ I'm a Solutions & DevOps engineer in Toronto. My day job is keeping infrastructu
 🔐 Writing security scripts and tooling<br>
 ✨ Charting history as interactive star maps
 
+### ✦ Featured
+
+<p>
+<a href="https://petrogko.com/politics-history-timeline/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/petrogko/petrogko/output/featured-politics-history-timeline-dark.svg"><img src="https://raw.githubusercontent.com/petrogko/petrogko/output/featured-politics-history-timeline-light.svg" width="49%" alt="Politics History Timeline: Interactive star-chart timeline of 45 political systems and ideologies, from tribal councils to national conservatism."></picture></a>
+<a href="https://petrogko.com/religion-history-timeline/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/petrogko/petrogko/output/featured-religion-history-timeline-dark.svg"><img src="https://raw.githubusercontent.com/petrogko/petrogko/output/featured-religion-history-timeline-light.svg" width="49%" alt="Religion History Timeline: Interactive star-chart timeline of 44 world religions: when and how each came out, key moments, sources, and which faiths grew out of which."></picture></a>
+</p>
+
 ### ✦ Live from Toronto
 
 <p>
