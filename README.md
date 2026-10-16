@@ -39,11 +39,11 @@ I'm a Solutions & DevOps engineer in Toronto. My day job is keeping infrastructu
 
 **Recent activity**
 
+- 🚀 Pushed to [**petrogko**](https://github.com/petrogko/petrogko) <sub>· Oct 15</sub>
 - ✅ Merged a pull request in [**petrogko**](https://github.com/petrogko/petrogko) <sub>· Oct 15</sub>
 - 🔀 Opened a pull request in [**petrogko**](https://github.com/petrogko/petrogko) <sub>· Oct 15</sub>
 - ⭐ Starred [**reconurge/flowsint**](https://github.com/reconurge/flowsint) <sub>· Oct 14</sub>
 - 🚀 Pushed to [**politics-history-timeline**](https://github.com/petrogko/politics-history-timeline) <sub>· Oct 1</sub>
-- 🚀 Pushed to [**religion-history-timeline**](https://github.com/petrogko/religion-history-timeline) <sub>· Oct 1</sub>
 
 <p align="center">
   <picture>
