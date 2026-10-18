@@ -1,0 +1,118 @@
+{
+  "weather": {
+    "data": {
+      "temp": 6.82,
+      "feelsLike": 5.25,
+      "conditionId": 800,
+      "description": "clear sky"
+    },
+    "fetchedAt": "2026-10-18T01:36:31.627Z"
+  },
+  "github": {
+    "data": {
+      "languages": [
+        {
+          "name": "JavaScript",
+          "bytes": 1665119
+        },
+        {
+          "name": "HTML",
+          "bytes": 1664433
+        },
+        {
+          "name": "PHP",
+          "bytes": 256018
+        },
+        {
+          "name": "CSS",
+          "bytes": 63978
+        },
+        {
+          "name": "Go",
+          "bytes": 46503
+        },
+        {
+          "name": "Python",
+          "bytes": 8031
+        },
+        {
+          "name": "Makefile",
+          "bytes": 2438
+        },
+        {
+          "name": "Shell",
+          "bytes": 1352
+        },
+        {
+          "name": "Batchfile",
+          "bytes": 925
+        },
+        {
+          "name": "ApacheConf",
+          "bytes": 740
+        },
+        {
+          "name": "Dockerfile",
+          "bytes": 233
+        }
+      ],
+      "featured": [
+        {
+          "name": "politics-history-timeline",
+          "title": "Politics History Timeline",
+          "description": "Interactive star-chart timeline of 45 political systems and ideologies, from tribal councils to national conservatism.",
+          "url": "https://petrogko.com/politics-history-timeline/"
+        },
+        {
+          "name": "religion-history-timeline",
+          "title": "Religion History Timeline",
+          "description": "Interactive star-chart timeline of 44 world religions: when and how each came out, key moments, sources, and which faiths grew out of which.",
+          "url": "https://petrogko.com/religion-history-timeline/"
+        }
+      ],
+      "stats": {
+        "publicRepos": 96,
+        "stars": 1,
+        "followers": 11
+      },
+      "activity": [
+        {
+          "emoji": "🚀",
+          "verb": "Pushed to",
+          "target": "petrogko",
+          "url": "https://github.com/petrogko/petrogko",
+          "date": "Oct 15"
+        },
+        {
+          "emoji": "✅",
+          "verb": "Merged a pull request in",
+          "target": "petrogko",
+          "url": "https://github.com/petrogko/petrogko",
+          "date": "Oct 15"
+        },
+        {
+          "emoji": "🔀",
+          "verb": "Opened a pull request in",
+          "target": "petrogko",
+          "url": "https://github.com/petrogko/petrogko",
+          "date": "Oct 15"
+        },
+        {
+          "emoji": "⭐",
+          "verb": "Starred",
+          "target": "reconurge/flowsint",
+          "url": "https://github.com/reconurge/flowsint",
+          "date": "Oct 14"
+        },
+        {
+          "emoji": "🚀",
+          "verb": "Pushed to",
+          "target": "politics-history-timeline",
+          "url": "https://github.com/petrogko/politics-history-timeline",
+          "date": "Oct 1"
+        }
+      ]
+    },
+    "fetchedAt": "2026-10-18T01:36:31.627Z"
+  }
+}
