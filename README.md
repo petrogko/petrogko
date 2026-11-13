@@ -39,10 +39,11 @@ I'm a Solutions & DevOps engineer in Toronto. My day job is keeping infrastructu
 
 **Recent activity**
 
+- ⭐ Starred [**rawfilejson/awesome-osint-arsenal**](https://github.com/rawfilejson/awesome-osint-arsenal) <sub>· Nov 13</sub>
+- ⭐ Starred [**farhanashrafdev/90DaysOfCyberSecurity**](https://github.com/farhanashrafdev/90DaysOfCyberSecurity) <sub>· Nov 13</sub>
+- ⭐ Starred [**CRTnoise/sirr**](https://github.com/CRTnoise/sirr) <sub>· Nov 13</sub>
 - 🚀 Pushed to [**petrogko**](https://github.com/petrogko/petrogko) <sub>· Oct 15</sub>
 - ✅ Merged a pull request in [**petrogko**](https://github.com/petrogko/petrogko) <sub>· Oct 15</sub>
-- 🔀 Opened a pull request in [**petrogko**](https://github.com/petrogko/petrogko) <sub>· Oct 15</sub>
-- ⭐ Starred [**reconurge/flowsint**](https://github.com/reconurge/flowsint) <sub>· Oct 14</sub>
 
 <p align="center">
   <picture>
