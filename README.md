@@ -43,7 +43,6 @@ I'm a Solutions & DevOps engineer in Toronto. My day job is keeping infrastructu
 - ⭐ Starred [**farhanashrafdev/90DaysOfCyberSecurity**](https://github.com/farhanashrafdev/90DaysOfCyberSecurity) <sub>· Nov 13</sub>
 - ⭐ Starred [**CRTnoise/sirr**](https://github.com/CRTnoise/sirr) <sub>· Nov 13</sub>
 - 🚀 Pushed to [**petrogko**](https://github.com/petrogko/petrogko) <sub>· Oct 15</sub>
-- ✅ Merged a pull request in [**petrogko**](https://github.com/petrogko/petrogko) <sub>· Oct 15</sub>
 
 <p align="center">
   <picture>
